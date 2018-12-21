@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="curriculum_design/src"/>
+	<classpathentry kind="lib" path="E:/eclipseWorkSpace/新建文件夹/OOP_Curriculum_Design/curriculum_design/src/reference Jar/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
